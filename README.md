@@ -1,2 +1,2 @@
 # News_Dashboard
-React-JS , HTML, CSS, JS
+React-JS , Redux, HTML, CSS, JS
