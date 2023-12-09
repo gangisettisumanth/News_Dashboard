@@ -32,7 +32,7 @@ const App = () => {
               as="select"
               value={selectedCountry}
               onChange={handleCountryChange}
-              className="w-100 text-center" // Use the w-100 class for 100% width
+              className="w-100 text-center" 
             >
               <option value="in">India</option>
               <option value="us">United States</option>
